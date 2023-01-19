@@ -1,2 +1,2 @@
-# Recipe-Calculator
-Recipe Nutrition Calculator and Kitchen Measurement Converter
+# Recipe-Builder
+Simple CLI program for creating cooking recipes
